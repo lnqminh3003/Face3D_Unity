@@ -1,4 +1,4 @@
-# Convert 2D image to 3D model with python blender api
+# Transform 2D image to 3D model with python blender api
 
 Open Blender -> Edit script -> Copy 2DImage.txt in Code folder
 
